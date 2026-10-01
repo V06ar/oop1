@@ -1,0 +1,19 @@
+# Артефакты сборки C++
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+
+# Временные папки сборки и IDE
+.vs/
+bin/
+obj/
+x64/
+Debug/
+Release/
+build/
+.idea/
+.vscode/
